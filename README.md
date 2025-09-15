@@ -1,2 +1,5 @@
 # tugas7-pemweb
-# tugas7-pemweb-r1
+
+Nama: Jofanka Al-Kautsar Pangestu Abady
+NRP: 5027241107
+Mata Kuliah: Pemrograman Web (C)
